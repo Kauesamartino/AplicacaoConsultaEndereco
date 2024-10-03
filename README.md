@@ -5,7 +5,7 @@ Este projeto Java realiza a consulta de endereços a partir de um CEP informado 
 - Busca de endereços via API ViaCEP.
 - Exibição do endereço completo com base no CEP.
 - Salvamento do resultado em um arquivo JSON com o nome baseado no CEP.
-- 
+
 ## Estrutura do Projeto
 O projeto contém as seguintes classes:
 
